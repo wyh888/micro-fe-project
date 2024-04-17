@@ -1,0 +1,16 @@
+{
+  "name": "micro-fe-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install:main": "cd main-app && pnpm install",
+    "start:main": "cd main-app && pnpm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-run-all2": "^6.1.2"
+  }
+}
